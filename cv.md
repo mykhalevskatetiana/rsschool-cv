@@ -38,7 +38,7 @@ Beetroot company 2018 (4 month)
 
 *like solving interesting and untypitcal tasks
 
-###Languages
+### Languages
 
 *Ukrainian
 
