@@ -36,4 +36,27 @@ Beetroot company 2018 (4 month)
 
 *analytical mind 
 
-*like solving interesting and untypitcal tasks 
+*like solving interesting and untypitcal tasks
+
+###Languages
+
+*Ukrainian
+
+*Russian
+
+*English (Intermidiate)
+*********
+*Some ~~good~~ code*
+```
+(function($){
+    $(document).ready(function() {
+        $('.header__nav-min').click(function() {
+	        $('.header__nav-min').toggleClass('header__nav-min--close');
+		});
+    }); 
+})(jQuery); 
+```
+
+**Goal**: to become Front end developer
+
+My cv on github will be soon 
